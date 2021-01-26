@@ -3,7 +3,7 @@ let y = array[array.length - 1];
 [...document.getElementsByClassName('menuItems')].forEach(i => {
     i.classList.remove('active')
 })
-if (y === 'home.html') {
+if (y === 'index.html') {
     if (document.getElementsByClassName('home')[0].classList.add('active')) {
 
     }
