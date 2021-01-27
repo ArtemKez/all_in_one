@@ -39,9 +39,9 @@ footer {
 }
 
 .menuItems:hover {
-    -webkit-box-shadow: 2px 4px 4px 0px rgba(0,0,0,0.46);
-    -moz-box-shadow: 2px 4px 4px 0px rgba(0,0,0,0.46);
-    box-shadow: 2px 4px 4px 0px rgba(0,0,0,0.46);
+    -webkit-box-shadow: 2px 4px 4px 0 rgba(0,0,0,0.46);
+    -moz-box-shadow: 2px 4px 4px 0 rgba(0,0,0,0.46);
+    box-shadow: 2px 4px 4px 0 rgba(0,0,0,0.46);
     background-color: #3b9a52;
 }
 
