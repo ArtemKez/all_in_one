@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+.field {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background: url('../img/green-grass-summer-gazon-fon-trava-zelenaia.jpg')
+}
+
+.excel {
+    width: 5%;
+    height: 5%;
+    padding: 0;
+}
+
+.bomb {
+    background: url('../img/bomb_PNG41.png');
+    background-size: cover;
+}
+
+.snakeBody {
+    background: url('../img/shMHJPZozm.jpg');
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.head {
+    background: url('../img/head_snake.png');
+    background-size: cover;
+    border-radius: 10%;
+}
+
+.mouse {
+    background: url('../img/PNGPIX-COM-Dinosaur-PNG-Transparent-Image.png');
+    background-size: cover;
+}
+
+.fieldSnake {
+    padding: 82px 0 0 0;
+}
